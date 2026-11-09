@@ -1,0 +1,833 @@
+{
+  "version": "20261109T1533",
+  "minecraft": "1.20.1",
+  "forge": "47.4.10",
+  "syncDirs": [
+    "mods",
+    "resourcepacks",
+    "shaderpacks"
+  ],
+  "files": [
+    {
+      "path": "mods/[1.20.1] SecurityCraft v1.10.1.jar",
+      "sha1": "98e4af60aa0f272105b7ffcdf154d7ab670a73bc",
+      "size": 4769715,
+      "url": "https://edge.forgecdn.net/files/7148/563/%5b1.20.1%5d%20SecurityCraft%20v1.10.1.jar"
+    },
+    {
+      "path": "mods/[1.20.1][Forge] RPG-HUD-3.10.3.jar",
+      "sha1": "9850b832e940dbfb281b66dc72be3eb56642bc84",
+      "size": 222317,
+      "url": "https://edge.forgecdn.net/files/6714/295/%5b1.20.1%5d%5bForge%5d%20RPG-HUD-3.10.3.jar"
+    },
+    {
+      "path": "mods/alexscaves-2.0.2.jar",
+      "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
+      "size": 74871657,
+      "url": "https://edge.forgecdn.net/files/5848/216/alexscaves-2.0.2.jar"
+    },
+    {
+      "path": "mods/alexsmobs-1.22.9.jar",
+      "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
+      "size": 26350793,
+      "url": "https://edge.forgecdn.net/files/5698/791/alexsmobs-1.22.9.jar"
+    },
+    {
+      "path": "mods/Apotheosis-1.20.1-7.4.8.jar",
+      "sha1": "e508c4724a24f0c80836818fcdd3df6424b1fc40",
+      "size": 2803994,
+      "url": "https://edge.forgecdn.net/files/6461/960/Apotheosis-1.20.1-7.4.8.jar"
+    },
+    {
+      "path": "mods/ApothicAttributes-1.20.1-1.3.7.jar",
+      "sha1": "1dc0744d17f0861fe6b067798d39abce9d8e0e86",
+      "size": 227511,
+      "url": "https://edge.forgecdn.net/files/5634/71/ApothicAttributes-1.20.1-1.3.7.jar"
+    },
+    {
+      "path": "mods/apprentice_codex-0.8.1.1+mc1.20.1.jar",
+      "sha1": "bc20cf7f7e4b3e5f2a2ec99fe29992b962fe16d3",
+      "size": 4841316,
+      "url": "https://edge.forgecdn.net/files/7943/728/apprentice_codex-0.8.1.1%2bmc1.20.1.jar"
+    },
+    {
+      "path": "mods/aquamirae-forge-1.20.1-6.3.3.jar",
+      "sha1": "9c0e75bab7a423794e1a9fc967be37c867fb57a1",
+      "size": 19072978,
+      "url": "https://edge.forgecdn.net/files/7911/313/aquamirae-forge-1.20.1-6.3.3.jar"
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "size": 580602,
+      "url": "https://edge.forgecdn.net/files/5137/938/architectury-9.2.14-forge.jar"
+    },
+    {
+      "path": "mods/ares_hud-1.2.1-all.jar",
+      "sha1": "00cfa3d41683389c891451245b9c6fcd6b222b03",
+      "size": 858862,
+      "url": "https://edge.forgecdn.net/files/7849/85/ares_hud-1.2.1-all.jar"
+    },
+    {
+      "path": "mods/artifacts-forge-9.5.19.jar",
+      "sha1": "91ab6fc2cc208550f7fc37c43e42eba81eff318e",
+      "size": 850974,
+      "url": "https://edge.forgecdn.net/files/7903/806/artifacts-forge-9.5.19.jar"
+    },
+    {
+      "path": "mods/AttributeFix-Forge-1.20.1-21.0.5.jar",
+      "sha1": "76d6b2d0f2a3c9842587ad20666ba419cd8c1efa",
+      "size": 19499,
+      "url": "https://edge.forgecdn.net/files/7612/291/AttributeFix-Forge-1.20.1-21.0.5.jar"
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.3.38-all.jar",
+      "sha1": "515905f87268f1eb5af2a9878a84914517efe552",
+      "size": 591397,
+      "url": "https://edge.forgecdn.net/files/7420/617/balm-forge-1.20.1-7.3.38-all.jar"
+    },
+    {
+      "path": "mods/blades_of_the_fallen-forge1.20.1_v1.4.3.jar",
+      "sha1": "b9f4785ba934d25ad67d44e1121307a36ec4816c",
+      "size": 5598666,
+      "url": "https://edge.forgecdn.net/files/7356/132/blades_of_the_fallen-forge1.20.1_v1.4.3.jar"
+    },
+    {
+      "path": "mods/block_factorys_bosses-2.1.1-forge-1.20.1.jar",
+      "sha1": "8afc6b682a070454cae8609ab58c6e05e57961f9",
+      "size": 24234736,
+      "url": "https://edge.forgecdn.net/files/8034/98/block_factorys_bosses-2.1.1-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/bobby-1.20.1_v5.0.1.jar",
+      "sha1": "8c98ee795e2e32189cb1b9bea53a7e310742e19a",
+      "size": 86682,
+      "url": "https://edge.forgecdn.net/files/4650/227/bobby-1.20.1_v5.0.1.jar"
+    },
+    {
+      "path": "mods/born_in_chaos_[Forge]1.20.1_1.7.4.jar",
+      "sha1": "11cfb515ee921daf3f008748a641d08aab02ebe9",
+      "size": 11833732,
+      "url": "https://edge.forgecdn.net/files/7366/478/born_in_chaos_%5bForge%5d1.20.1_1.7.4.jar"
+    },
+    {
+      "path": "mods/bossesunleashed-1.0.4-hotfix.jar",
+      "sha1": "21d98e25406e44a580450279c0becbb0aedbe0c5",
+      "size": 8925048,
+      "url": "https://edge.forgecdn.net/files/7704/181/bossesunleashed-1.0.4-hotfix.jar"
+    },
+    {
+      "path": "mods/caelus-forge-3.2.0+1.20.1.jar",
+      "sha1": "fa834f140bf7dce7b67c29b46cb531f4309d3209",
+      "size": 40125,
+      "url": "https://edge.forgecdn.net/files/5281/700/caelus-forge-3.2.0%2b1.20.1.jar"
+    },
+    {
+      "path": "mods/callfromthedepth_-1.21-forge-1.20.1.jar",
+      "sha1": "d1c36bab7d5e6c5b9ecf88a8ee4964ac5fe5855b",
+      "size": 50438067,
+      "url": "https://edge.forgecdn.net/files/7097/966/callfromthedepth_-1.21-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/camera-forge-1.20.1-1.0.20.jar",
+      "sha1": "299cc4fa41a12a247cc73024259247574bfa5d0e",
+      "size": 299726,
+      "url": "https://edge.forgecdn.net/files/6480/231/camera-forge-1.20.1-1.0.20.jar"
+    },
+    {
+      "path": "mods/CarbonConfig-1.20-2.0.2.1.jar",
+      "sha1": "b0b184ee4907d89a93e2ad64af994e358f2d1964",
+      "size": 1268400,
+      "url": "https://edge.forgecdn.net/files/8119/981/CarbonConfig-1.20-2.0.2.1.jar"
+    },
+    {
+      "path": "mods/celestial_artifacts-1.5.9.jar",
+      "sha1": "834721e64417c8e18876fc14ea05775dce1a7daa",
+      "size": 795374,
+      "url": "https://edge.forgecdn.net/files/7350/35/celestial_artifacts-1.5.9.jar"
+    },
+    {
+      "path": "mods/celestial_core-1.5.7.jar",
+      "sha1": "dd431a7dccac87eaf4f9e80def6d1e4188a09c2f",
+      "size": 1452087,
+      "url": "https://edge.forgecdn.net/files/7695/718/celestial_core-1.5.7.jar"
+    },
+    {
+      "path": "mods/chat_heads-0.15.1-forge-1.20.jar",
+      "sha1": "6eebd1479d11d3ed8fbb18b866ba43b470743e00",
+      "size": 722579,
+      "url": "https://edge.forgecdn.net/files/7875/199/chat_heads-0.15.1-forge-1.20.jar"
+    },
+    {
+      "path": "mods/chatanimation-forge-1.20.1-1.1.3.jar",
+      "sha1": "60f1673f321534a6eb8ce1250cd0f221209daf8b",
+      "size": 381473,
+      "url": "https://edge.forgecdn.net/files/7325/643/chatanimation-forge-1.20.1-1.1.3.jar"
+    },
+    {
+      "path": "mods/citadel-2.6.3-1.20.1.jar",
+      "sha1": "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316",
+      "size": 3185275,
+      "url": "https://edge.forgecdn.net/files/7476/570/citadel-2.6.3-1.20.1.jar"
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+      "size": 1181413,
+      "url": "https://edge.forgecdn.net/files/5729/105/cloth-config-11.1.136-forge.jar"
+    },
+    {
+      "path": "mods/CombatEvolution-2.1.5.jar",
+      "sha1": "3aed3bc26792ee5dc5330ea7d4e87d5ede51ce93",
+      "size": 2434965,
+      "url": "https://edge.forgecdn.net/files/7908/514/CombatEvolution-2.1.5.jar"
+    },
+    {
+      "path": "mods/corundumguardian-2.2.0-forge-1.20.1.jar",
+      "sha1": "bf1c3bfbb85add8d07ac0c37a98a066796e67b4f",
+      "size": 633675,
+      "url": "https://edge.forgecdn.net/files/5705/950/corundumguardian-2.2.0-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "sha1": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea",
+      "size": 88752,
+      "url": "https://edge.forgecdn.net/files/4600/191/cosmeticarmorreworked-1.20.1-v1a.jar"
+    },
+    {
+      "path": "mods/craft_config-1.1.11+1.20.1-forge.jar",
+      "sha1": "76b7fd3cbb8c168a3fd5ddcf79b931290fee0cff",
+      "size": 296776,
+      "url": "https://edge.forgecdn.net/files/8264/213/craft_config-1.1.11%2b1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+      "sha1": "aef9a8ebdf0be50b6bd8da8ab4153f5085f71a80",
+      "size": 1144128,
+      "url": "https://edge.forgecdn.net/files/8304/882/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar"
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+      "size": 398066,
+      "url": "https://edge.forgecdn.net/files/6418/456/curios-forge-5.14.1%2b1.20.1.jar"
+    },
+    {
+      "path": "mods/customcameraview-forge-1.20.1-1.0.1.jar",
+      "sha1": "a2f515ef772c8859e2b55d4e5760c515cafd5fc6",
+      "size": 18309,
+      "url": "https://edge.forgecdn.net/files/4601/457/customcameraview-forge-1.20.1-1.0.1.jar"
+    },
+    {
+      "path": "mods/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260227.jar",
+      "sha1": "088d7c7066e0471cb2f538a9cf1c2a5471cca0ad",
+      "size": 10846030,
+      "url": "https://edge.forgecdn.net/files/7694/841/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260227.jar"
+    },
+    {
+      "path": "mods/dacxirons-1.5.3emergencyfix.jar",
+      "sha1": "e6a213890ee5bf43efee63d855e574347f27bcbb",
+      "size": 421992,
+      "url": "https://edge.forgecdn.net/files/7423/570/dacxirons-1.5.3emergencyfix.jar"
+    },
+    {
+      "path": "mods/darkermagic-1.3.1-1.20.1-ver.b.jar",
+      "sha1": "fc828f6396862b827a4b916f879c56042cef538c",
+      "size": 100035,
+      "url": "https://edge.forgecdn.net/files/7709/65/darkermagic-1.3.1-1.20.1-ver.b.jar"
+    },
+    {
+      "path": "mods/daswordartonmine-3.4.jar",
+      "sha1": "0aa288c183d7e87036cb9f177a352a85af25ee25",
+      "size": 35681926,
+      "url": "https://edge.forgecdn.net/files/8217/238/daswordartonmine-3.4.jar"
+    },
+    {
+      "path": "mods/DDmeter-1.0.1.jar",
+      "sha1": "de41554e7534457df36b4128a184554568768686",
+      "size": 24020,
+      "url": "https://github.com/minsung1231/smo-launcher-data/releases/download/pack/de41554e-DDmeter-1.0.1.jar"
+    },
+    {
+      "path": "mods/deeperdarker-forge-1.20.1-1.3.3.jar",
+      "sha1": "12f95fa85c62123140d1962702a97a3bb746bbf5",
+      "size": 17844266,
+      "url": "https://edge.forgecdn.net/files/5906/86/deeperdarker-forge-1.20.1-1.3.3.jar"
+    },
+    {
+      "path": "mods/dummmmmmy-1.20-2.0.9.jar",
+      "sha1": "782d16edca6fa22fb72fa825cec39117bbb7e78a",
+      "size": 363044,
+      "url": "https://edge.forgecdn.net/files/6860/192/dummmmmmy-1.20-2.0.9.jar"
+    },
+    {
+      "path": "mods/dungeons_and_combat-1.2.4-forge-1.20.1.jar",
+      "sha1": "4b08c97972e1561efd61aed2c6d5a8c339b20ec3",
+      "size": 12598772,
+      "url": "https://edge.forgecdn.net/files/7193/486/dungeons_and_combat-1.2.4-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/DustyDecorations_1.20.1Forge_V1.13.jar",
+      "sha1": "e0611ef10f809f093c2ae8b91f2bf12739e73afa",
+      "size": 5074483,
+      "url": "https://edge.forgecdn.net/files/7917/126/DustyDecorations_1.20.1Forge_V1.13.jar"
+    },
+    {
+      "path": "mods/dynamiclantern-1.6.1-mc1.20.1-forge.jar",
+      "sha1": "0ad859d8e51bb436e900aa641831d645f741eddc",
+      "size": 64406,
+      "url": "https://edge.forgecdn.net/files/8246/342/dynamiclantern-1.6.1-mc1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/eeeabsmobs-1.20.1-0.97-Fix.jar",
+      "sha1": "ceef31a3c3b5a1766f39378ce34fb1f00ad8aac5",
+      "size": 28960284,
+      "url": "https://edge.forgecdn.net/files/6095/880/eeeabsmobs-1.20.1-0.97-Fix.jar"
+    },
+    {
+      "path": "mods/efs_iss-1.0.3.jar",
+      "sha1": "24af46b91147b096713f8693e03fc70d240b5c03",
+      "size": 299741,
+      "url": "https://edge.forgecdn.net/files/7644/948/efs_iss-1.0.3.jar"
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "size": 1320675,
+      "url": "https://edge.forgecdn.net/files/5681/725/embeddium-0.3.31%2bmc1.20.1.jar"
+    },
+    {
+      "path": "mods/ember_and_icicle-0.1.2-forge-1.20.1.jar",
+      "sha1": "cf4c1371e4d5458885e7fdcbd71fc297864b7242",
+      "size": 7425018,
+      "url": "https://edge.forgecdn.net/files/7967/921/ember_and_icicle-0.1.2-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/epic_fight_avalon-20.12.6.4.jar",
+      "sha1": "0843f9e18063532304ab85ec5da310ae2d425c35",
+      "size": 645196,
+      "url": "https://edge.forgecdn.net/files/7619/938/epic_fight_avalon-20.12.6.4.jar"
+    },
+    {
+      "path": "mods/epic-fight-20.14.10-mc1.20.1-forge.jar",
+      "sha1": "bfca9016fe30eb3c0c4fd3107dcb3f0749804382",
+      "size": 8041868,
+      "url": "https://edge.forgecdn.net/files/7633/232/epic-fight-20.14.10-mc1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/epic-fight-invincible-lib-20.14.8.2-mc1.20.1-forge.jar",
+      "sha1": "1a8ba86606705c2c2ea4ca6bfd9f9add177cd7cd",
+      "size": 268536,
+      "url": "https://edge.forgecdn.net/files/7679/941/epic-fight-invincible-lib-20.14.8.2-mc1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/EpicFight Nightfall-3.2.5-all.jar",
+      "sha1": "04cec8af36f42d288bb558839d615229efb1e92e",
+      "size": 51366384,
+      "url": "https://edge.forgecdn.net/files/7891/764/EpicFight%20Nightfall-3.2.5-all.jar"
+    },
+    {
+      "path": "mods/epicfight_arachne-1.0.0.jar",
+      "sha1": "d394e6c4ea4ea96f40c5ef0c00bcbec67cc78d8f",
+      "size": 7338704,
+      "url": "https://edge.forgecdn.net/files/7529/944/epicfight_arachne-1.0.0.jar"
+    },
+    {
+      "path": "mods/epicfight_leonidas-1.0.1.jar",
+      "sha1": "b8a4bb398cdd3639206c07ca4c1957856cdf684f",
+      "size": 8366555,
+      "url": "https://edge.forgecdn.net/files/7619/585/epicfight_leonidas-1.0.1.jar"
+    },
+    {
+      "path": "mods/epicfight-extra-1.2-mc1.20.1-forge-all.jar",
+      "sha1": "2b104659d1e3c4af7b27aa4bd7160d928eb8d641",
+      "size": 23720352,
+      "url": "https://edge.forgecdn.net/files/7961/244/epicfight-extra-1.2-mc1.20.1-forge-all.jar"
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.2.11.jar",
+      "sha1": "76311d0d9f9064487fed060a793263744effacde",
+      "size": 2963127,
+      "url": "https://edge.forgecdn.net/files/7801/523/FarmersDelight-1.20.1-1.2.11.jar"
+    },
+    {
+      "path": "mods/FathomlessCrimson-1.1.9.jar",
+      "sha1": "e2b5d8dbe029029757cddcabdfecdc0988f2b238",
+      "size": 10511701,
+      "url": "https://edge.forgecdn.net/files/7809/96/FathomlessCrimson-1.1.9.jar"
+    },
+    {
+      "path": "mods/fdbosses-3.1.0.3-1.20.1.jar",
+      "sha1": "a7ff3fc0cc6af1222b95c6a1ccc46e8961a834a9",
+      "size": 26329336,
+      "url": "https://edge.forgecdn.net/files/7653/115/fdbosses-3.1.0.3-1.20.1.jar"
+    },
+    {
+      "path": "mods/fdlib-1.0.9-1.20.1.jar",
+      "sha1": "6918e71d62fa103c55f9184ff619351f87f49c42",
+      "size": 1647611,
+      "url": "https://edge.forgecdn.net/files/7844/812/fdlib-1.0.9-1.20.1.jar"
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "size": 123034,
+      "url": "https://edge.forgecdn.net/files/4810/975/ferritecore-6.0.1-forge.jar"
+    },
+    {
+      "path": "mods/ForgeConfigScreens-v8.0.2-1.20.1-Forge.jar",
+      "sha1": "e727fcba7efe04bc173211ba5cdf49eea768a9a3",
+      "size": 230578,
+      "url": "https://edge.forgecdn.net/files/4672/356/ForgeConfigScreens-v8.0.2-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.3.jar",
+      "sha1": "5428765c6c2e2135da6ee01f2f0478fa0db6aee7",
+      "size": 1039046,
+      "url": "https://edge.forgecdn.net/files/7553/267/geckolib-forge-1.20.1-4.8.3.jar"
+    },
+    {
+      "path": "mods/goety-2.5.52.4.jar",
+      "sha1": "18ac68f542a2e308b693db83932c6058ee932a8b",
+      "size": 76394217,
+      "url": "https://github.com/minsung1231/smo-launcher-data/releases/download/pack/18ac68f5-goety-2.5.52.4.jar"
+    },
+    {
+      "path": "mods/gtbcs_geomancy_plus-2.0.0-1.20.1.jar",
+      "sha1": "1387448af86e9bcad1a612b7e97c0d5ee95dadfd",
+      "size": 671054,
+      "url": "https://edge.forgecdn.net/files/7580/390/gtbcs_geomancy_plus-2.0.0-1.20.1.jar"
+    },
+    {
+      "path": "mods/gtbcs_spell_lib-1.5.0-1.20.1.jar",
+      "sha1": "56e3e339077cffb4da2aed516ee37a99400a3e6e",
+      "size": 135012,
+      "url": "https://edge.forgecdn.net/files/7584/987/gtbcs_spell_lib-1.5.0-1.20.1.jar"
+    },
+    {
+      "path": "mods/hadean_breathe-0.24.5-1.20.1-forge.jar",
+      "sha1": "2ba9f9de643f942f8e5aa5467698e1120d110a0c",
+      "size": 854160,
+      "url": "https://edge.forgecdn.net/files/7496/36/hadean_breathe-0.24.5-1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/holo_damage_indicator-1.3.1+1.20.1-forge.jar",
+      "sha1": "7fa71f52d946d325e059f8715136ada90c6b1fca",
+      "size": 153804,
+      "url": "https://edge.forgecdn.net/files/8178/905/holo_damage_indicator-1.3.1%2b1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/hologram_api-2.0.2+1.20.1-forge.jar",
+      "sha1": "be1e31e00281f404ad5af115d89ad744465561ed",
+      "size": 71216,
+      "url": "https://edge.forgecdn.net/files/8178/949/hologram_api-2.0.2%2b1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/hs_bosses-0.0.3.jar",
+      "sha1": "c2cf5a0ba09bfb4770884c1541ef048c5ee661a2",
+      "size": 204754,
+      "url": "https://edge.forgecdn.net/files/5659/953/hs_bosses-0.0.3.jar"
+    },
+    {
+      "path": "mods/illageandspillagerespillaged-1.2.8.jar",
+      "sha1": "4770eeb199c1947642456bc6ed4a0a9f54c953d6",
+      "size": 33578108,
+      "url": "https://edge.forgecdn.net/files/6156/35/illageandspillagerespillaged-1.2.8.jar"
+    },
+    {
+      "path": "mods/incontrol-1.20-9.4.6.jar",
+      "sha1": "0d324b97af98938f28f58f696e0b992c42eb8f31",
+      "size": 361894,
+      "url": "https://edge.forgecdn.net/files/7436/213/incontrol-1.20-9.4.6.jar"
+    },
+    {
+      "path": "mods/indestructible-20.12.0.jar",
+      "sha1": "40e835d0e9d82bf81bac88073a5ad2c4e59ef25e",
+      "size": 264947,
+      "url": "https://edge.forgecdn.net/files/6915/161/indestructible-20.12.0.jar"
+    },
+    {
+      "path": "mods/inventoryhud.forge.1.20.1-3.4.26.jar",
+      "sha1": "f0adda10a3d6549e6dfdffd41e72270c61c8a302",
+      "size": 238088,
+      "url": "https://edge.forgecdn.net/files/5639/966/inventoryhud.forge.1.20.1-3.4.26.jar"
+    },
+    {
+      "path": "mods/irons_lib-1.20.1-1.0.2.jar",
+      "sha1": "5cf41e8d809f5e8b0173770cdb959dc7dca23ca0",
+      "size": 392806,
+      "url": "https://edge.forgecdn.net/files/7907/335/irons_lib-1.20.1-1.0.2.jar"
+    },
+    {
+      "path": "mods/irons_spellbooks-1.20.1-3.15.6.jar",
+      "sha1": "753b4a8f9751631c8ffdba1cb50b01460ec5223c",
+      "size": 15178473,
+      "url": "https://github.com/minsung1231/smo-launcher-data/releases/download/pack/753b4a8f-irons_spellbooks-1.20.1-3.15.6.jar"
+    },
+    {
+      "path": "mods/koreanpatch-forge-1.9.5+mc1.20.1.jar",
+      "sha1": "a8ec28fd42ecdf829a48e6fce4c6e686540f36d5",
+      "size": 316542,
+      "url": "https://edge.forgecdn.net/files/7344/272/koreanpatch-forge-1.9.5%2bmc1.20.1.jar"
+    },
+    {
+      "path": "mods/Krypton Reno-forge-1.20.1-26.1.1-1.20.1.jar",
+      "sha1": "bfa957bfa1f477f2cba4bd7fdf0e803095f80621",
+      "size": 1793920,
+      "url": "https://edge.forgecdn.net/files/8210/948/Krypton%20Reno-forge-1.20.1-26.1.1-1.20.1.jar"
+    },
+    {
+      "path": "mods/L_Enders_Cataclysm-3.16.jar",
+      "sha1": "25d84c486a817ba54362ea1f4b82b6d3802cc074",
+      "size": 127993805,
+      "url": "https://edge.forgecdn.net/files/6906/993/L_Enders_Cataclysm-3.16.jar"
+    },
+    {
+      "path": "mods/ldlib-forge-1.20.1-1.0.50.jar",
+      "sha1": "9129ee32e9966d757f3f66eed92d98b07264f22e",
+      "size": 3114158,
+      "url": "https://edge.forgecdn.net/files/7809/449/ldlib-forge-1.20.1-1.0.50.jar"
+    },
+    {
+      "path": "mods/legendary_spellbooks-1.20.1+forge-0.2.1.jar",
+      "sha1": "3b2b260f0d1346d0f72e8f63ff40abe9c92cc544",
+      "size": 332632,
+      "url": "https://edge.forgecdn.net/files/8013/178/legendary_spellbooks-1.20.1%2bforge-0.2.1.jar"
+    },
+    {
+      "path": "mods/legendarymonsters-2.0.6 MC 1.20.1.jar",
+      "sha1": "fb5f8c99c39581f78deeaa4d6919dcdc89e71ee6",
+      "size": 32223179,
+      "url": "https://edge.forgecdn.net/files/7628/159/legendarymonsters-2.0.6%20MC%201.20.1.jar"
+    },
+    {
+      "path": "mods/lionfishapi-2.4-Fix.jar",
+      "sha1": "b198f38fb27dfc6db490b496d56aa1622d5a5b87",
+      "size": 162767,
+      "url": "https://edge.forgecdn.net/files/5922/47/lionfishapi-2.4-Fix.jar"
+    },
+    {
+      "path": "mods/lucent-1.20.1-1.5.5.jar",
+      "sha1": "d72dc411c4e35869044840e4b551e8734788bc51",
+      "size": 225245,
+      "url": "https://edge.forgecdn.net/files/4951/434/lucent-1.20.1-1.5.5.jar"
+    },
+    {
+      "path": "mods/mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+      "sha1": "d24bc6e1ba7f04e058db019ae5ca3d10edd9510a",
+      "size": 708634,
+      "url": "https://edge.forgecdn.net/files/7308/423/mcw-mcwfences-1.2.1-mc1.20.1forge.jar"
+    },
+    {
+      "path": "mods/meb_cataclysm-1.0.1.jar",
+      "sha1": "67746525f0e6bb4b70c9e70b76d8c28b7696fb3c",
+      "size": 3157632,
+      "url": "https://edge.forgecdn.net/files/7412/82/meb_cataclysm-1.0.1.jar"
+    },
+    {
+      "path": "mods/meetyourfight-1.20.1-1.6.0.jar",
+      "sha1": "2bcea7f157072605beed0fd7436efa2cf7dcfbfc",
+      "size": 23674627,
+      "url": "https://edge.forgecdn.net/files/7616/10/meetyourfight-1.20.1-1.6.0.jar"
+    },
+    {
+      "path": "mods/modernfix-forge-5.27.0+mc1.20.1.jar",
+      "sha1": "50a5c1f2fd8f6062dd1e7bf956c854230f3c9c38",
+      "size": 943957,
+      "url": "https://edge.forgecdn.net/files/7907/826/modernfix-forge-5.27.0%2bmc1.20.1.jar"
+    },
+    {
+      "path": "mods/monsterexpansion-1.20.1-v0.6.3.jar",
+      "sha1": "f560120e383cf7e456e7ef33e3693f36174de4f0",
+      "size": 13577103,
+      "url": "https://edge.forgecdn.net/files/7388/120/monsterexpansion-1.20.1-v0.6.3.jar"
+    },
+    {
+      "path": "mods/moonlight-1.20-2.16.28-forge.jar",
+      "sha1": "c2def460fc3b99804331228b9ca0e48063578c57",
+      "size": 1393921,
+      "url": "https://edge.forgecdn.net/files/7664/875/moonlight-1.20-2.16.28-forge.jar"
+    },
+    {
+      "path": "mods/mowziesmobs-1.8.2.jar",
+      "sha1": "25ffcd175cc03650e38e60d3cb7b3e038d9d3345",
+      "size": 36033850,
+      "url": "https://edge.forgecdn.net/files/7815/705/mowziesmobs-1.8.2.jar"
+    },
+    {
+      "path": "mods/NexusLayer-1.1.2.jar",
+      "sha1": "a930acf0126b3514a3d56c4fc2d54c5d7c344341",
+      "size": 481307,
+      "url": "https://edge.forgecdn.net/files/7603/94/NexusLayer-1.1.2.jar"
+    },
+    {
+      "path": "mods/nightfall_invade-1.2.7.jar",
+      "sha1": "102301b6909da732f7cca4d562a94feaff5413fa",
+      "size": 7408344,
+      "url": "https://edge.forgecdn.net/files/7879/769/nightfall_invade-1.2.7.jar"
+    },
+    {
+      "path": "mods/obscure_api-18.jar",
+      "sha1": "d395153341a9a732fc80463c475b202d78675e28",
+      "size": 1128392,
+      "url": "https://edge.forgecdn.net/files/7171/906/obscure_api-18.jar"
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+      "size": 2851119,
+      "url": "https://edge.forgecdn.net/files/6020/952/oculus-mc1.20.1-1.8.0.jar"
+    },
+    {
+      "path": "mods/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+      "sha1": "79ebc5e66a5ee3ce92afb340e693d506e97361a0",
+      "size": 188661,
+      "url": "https://edge.forgecdn.net/files/7872/374/packetfixer-3.3.2-1.18-1.20.4-merged.jar"
+    },
+    {
+      "path": "mods/Patchouli-1.20.1-85-FORGE.jar",
+      "sha1": "d4614507d6e4c7cb464bba5eca891978272062ef",
+      "size": 642732,
+      "url": "https://edge.forgecdn.net/files/7731/17/Patchouli-1.20.1-85-FORGE.jar"
+    },
+    {
+      "path": "mods/Placebo-1.20.1-8.6.3.jar",
+      "sha1": "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f",
+      "size": 282474,
+      "url": "https://edge.forgecdn.net/files/6274/231/Placebo-1.20.1-8.6.3.jar"
+    },
+    {
+      "path": "mods/plasmovoice-forge-1.20.1-2.1.9.jar",
+      "sha1": "f8196a73c14410fe8a03758639397bc2cd3509e3",
+      "size": 12235357,
+      "url": "https://edge.forgecdn.net/files/7950/506/plasmovoice-forge-1.20.1-2.1.9.jar"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+      "size": 181437,
+      "url": "https://edge.forgecdn.net/files/4587/214/player-animation-lib-forge-1.0.2-rc1%2b1.20.jar"
+    },
+    {
+      "path": "mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+      "sha1": "6ccb76043763f929a11f1857a57b41bb70ab7512",
+      "size": 7080698,
+      "url": "https://edge.forgecdn.net/files/5015/286/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar"
+    },
+    {
+      "path": "mods/pvp_flagging-1.20.1-1.1.2.jar",
+      "sha1": "d2cf699cc70dfa3f0bb0639fb016b76bbe37e550",
+      "size": 71301,
+      "url": "https://edge.forgecdn.net/files/7179/289/pvp_flagging-1.20.1-1.1.2.jar"
+    },
+    {
+      "path": "mods/radiantgear-forge-2.2.0+1.20.1.jar",
+      "sha1": "525b3ebccece23ed6bf4945a1c054c21599fc083",
+      "size": 47170,
+      "url": "https://edge.forgecdn.net/files/6029/352/radiantgear-forge-2.2.0%2b1.20.1.jar"
+    },
+    {
+      "path": "mods/refined_mod-1.20.1-1.1.3.jar",
+      "sha1": "5cd51d206a075d30e7f92eebf0587397bf5d13af",
+      "size": 1516392,
+      "url": "https://edge.forgecdn.net/files/7793/595/refined_mod-1.20.1-1.1.3.jar"
+    },
+    {
+      "path": "mods/rpc-1.1.2+1.20.1-forge.jar",
+      "sha1": "19e88579617d599eb4d9389980c4323395be196e",
+      "size": 12998,
+      "url": "https://edge.forgecdn.net/files/5966/736/rpc-1.1.2%2b1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/RPG_Style_More_Bosses_1.0.3_Forge_1.20.1.jar",
+      "sha1": "a2aec0baf2b8af1a790da92cc1681391e2253150",
+      "size": 5751685,
+      "url": "https://edge.forgecdn.net/files/7532/641/RPG_Style_More_Bosses_1.0.3_Forge_1.20.1.jar"
+    },
+    {
+      "path": "mods/sit-1.20.1-1.3.5.jar",
+      "sha1": "228fa17d1bbacbc3e49c20e6d9b91050011f6ee2",
+      "size": 14510,
+      "url": "https://edge.forgecdn.net/files/5378/497/sit-1.20.1-1.3.5.jar"
+    },
+    {
+      "path": "mods/SmartBrainLib-forge-1.20.1-1.15.jar",
+      "sha1": "d278b6ca36075c4d097677345a25751f9aeed3c1",
+      "size": 362338,
+      "url": "https://edge.forgecdn.net/files/5654/964/SmartBrainLib-forge-1.20.1-1.15.jar"
+    },
+    {
+      "path": "mods/somakespells-1.0.6-1.20.1.jar",
+      "sha1": "88944dcfea762753f551dfe38d7b4a4a3f299e35",
+      "size": 1427125,
+      "url": "https://edge.forgecdn.net/files/7913/898/somakespells-1.0.6-1.20.1.jar"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.24.58.1917.jar",
+      "sha1": "b2ca73744ab7ad3fa35a4946256a469d34d05c7c",
+      "size": 1129301,
+      "url": "https://edge.forgecdn.net/files/8272/350/sophisticatedbackpacks-1.20.1-3.24.58.1917.jar"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-1.3.55.2031.jar",
+      "sha1": "a6692d8c0d8cf50fdd7b19976de4e55bb01cdffa",
+      "size": 1606240,
+      "url": "https://edge.forgecdn.net/files/8272/318/sophisticatedcore-1.20.1-1.3.55.2031.jar"
+    },
+    {
+      "path": "mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "sha1": "aef2c02392624f0a12475ada809366b12ac9ec52",
+      "size": 206984,
+      "url": "https://edge.forgecdn.net/files/7032/235/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
+    },
+    {
+      "path": "mods/Stackable Potions-forge-1.20.1-1.0.0.jar",
+      "sha1": "dafaeba2507ffc8b301f62569044536e795b8404",
+      "size": 10691,
+      "url": "https://edge.forgecdn.net/files/4627/634/Stackable%20Potions-forge-1.20.1-1.0.0.jar"
+    },
+    {
+      "path": "mods/starcatcher-2.2.1-FORGE-1.20.1.jar",
+      "sha1": "1e9345a91af6e11fd43216c58d8e1a616cde346e",
+      "size": 3744519,
+      "url": "https://edge.forgecdn.net/files/7582/886/starcatcher-2.2.1-FORGE-1.20.1.jar"
+    },
+    {
+      "path": "mods/super_golem-20.12.2.jar",
+      "sha1": "802df899c50a9bc77bc4169be208a7edc48872bd",
+      "size": 2168184,
+      "url": "https://edge.forgecdn.net/files/7090/178/super_golem-20.12.2.jar"
+    },
+    {
+      "path": "mods/super_warden-20.13.0.jar",
+      "sha1": "17eb8c043e7bcb0c84804d226ff7ff8a711299e6",
+      "size": 1089990,
+      "url": "https://edge.forgecdn.net/files/7144/759/super_warden-20.13.0.jar"
+    },
+    {
+      "path": "mods/terra_entity-1.2.3-all.jar",
+      "sha1": "b2477cd95ce8bfa4399762adf754fcbf32039217",
+      "size": 9126064,
+      "url": "https://edge.forgecdn.net/files/7800/596/terra_entity-1.2.3-all.jar"
+    },
+    {
+      "path": "mods/terramity-0.9.8-forge-1.20.1.jar",
+      "sha1": "898ef261a7d05e844dc879f38b2f37333765704a",
+      "size": 27024132,
+      "url": "https://edge.forgecdn.net/files/6054/971/terramity-0.9.8-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+      "sha1": "11ae4c94aa94b38b78cf9b901dad4612b679f8ac",
+      "size": 10298153,
+      "url": "https://edge.forgecdn.net/files/5114/579/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar"
+    },
+    {
+      "path": "mods/threateningly_mobs-1.0.9.91-forge-1.20.1.jar",
+      "sha1": "50372e41062a9fab96b8f4c452a2d1d6418a7389",
+      "size": 9099411,
+      "url": "https://edge.forgecdn.net/files/7746/759/threateningly_mobs-1.0.9.91-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/traveloptics-6.3.0-1.20.1.jar",
+      "sha1": "e1a52c88a538e62a4b739ebcef81ab9cf5e19b20",
+      "size": 27486118,
+      "url": "https://edge.forgecdn.net/files/7424/522/traveloptics-6.3.0-1.20.1.jar"
+    },
+    {
+      "path": "mods/vgamingmoneymod-1.0.2-forge-1.20.1.jar",
+      "sha1": "8476a3fc9492f1ccc59d33e1e359d88879b9823a",
+      "size": 42660,
+      "url": "https://edge.forgecdn.net/files/6059/237/vgamingmoneymod-1.0.2-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/vzling-0.98.5-1.20.1-forge.jar",
+      "sha1": "105bf0e9b541e70dfab95226160cfebeb055c236",
+      "size": 457880,
+      "url": "https://edge.forgecdn.net/files/7482/798/vzling-0.98.5-1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/waystones-forge-1.20.1-14.1.20.jar",
+      "sha1": "cde06d0f1e9042fb2e0b536a4d2c5443d129dd51",
+      "size": 533738,
+      "url": "https://edge.forgecdn.net/files/7682/270/waystones-forge-1.20.1-14.1.20.jar"
+    },
+    {
+      "path": "mods/WeaponsOfMiracles-2.0.15-mc1.20.1-forge.jar",
+      "sha1": "2d9bf004620c3743812d89130c3c943628f173b2",
+      "size": 20276434,
+      "url": "https://edge.forgecdn.net/files/7517/612/WeaponsOfMiracles-2.0.15-mc1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/wind_spellbooks-1.20.1-1.0.1.jar",
+      "sha1": "cb3671400347a393c16c676b352ba17059d513f8",
+      "size": 475489,
+      "url": "https://edge.forgecdn.net/files/8018/45/wind_spellbooks-1.20.1-1.0.1.jar"
+    },
+    {
+      "path": "mods/witherstormmod-1.20.1-4.2.1-all.jar",
+      "sha1": "bd32ea3f44812b6b1744739633ea25d32197f4b8",
+      "size": 47342265,
+      "url": "https://edge.forgecdn.net/files/5619/741/witherstormmod-1.20.1-4.2.1-all.jar"
+    },
+    {
+      "path": "mods/worldedit-mod-7.2.15.jar",
+      "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f",
+      "size": 5825402,
+      "url": "https://edge.forgecdn.net/files/4586/218/worldedit-mod-7.2.15.jar"
+    },
+    {
+      "path": "resourcepacks/둥근모 폰트팩.zip",
+      "sha1": "a30ca260936fe1286a9ee42774e1feb22d60cb9f",
+      "size": 1789756,
+      "url": "https://github.com/minsung1231/smo-launcher-data/releases/download/pack/a30ca260-_.zip"
+    },
+    {
+      "path": "resourcepacks/CreateWaystones v1.0.2.b.zip",
+      "sha1": "26cac9dde1e80563552237bb89364e5fad2b978c",
+      "size": 621146,
+      "url": "https://edge.forgecdn.net/files/6198/781/CreateWaystones%20v1.0.2.b.zip"
+    },
+    {
+      "path": "resourcepacks/eir's kr for 1.20.1 starcatcher.zip",
+      "sha1": "ce64724342f2da6fc8644b4880587b591ac43e22",
+      "size": 26417,
+      "url": "https://github.com/minsung1231/smo-launcher-data/releases/download/pack/ce647243-eir_s_kr_for_1.20.1_starcatcher.zip"
+    },
+    {
+      "path": "resourcepacks/Godo - Font Pack.zip",
+      "sha1": "10c8ba66fe008257ee99cb84077662d98d10f8df",
+      "size": 788240,
+      "url": "https://github.com/minsung1231/smo-launcher-data/releases/download/pack/10c8ba66-Godo_-_Font_Pack.zip"
+    },
+    {
+      "path": "resourcepacks/Kimveil.zip",
+      "sha1": "f2e92fba10ba2ca90ad7b913201c951ade2f884a",
+      "size": 1118754,
+      "url": "https://github.com/minsung1231/smo-launcher-data/releases/download/pack/f2e92fba-Kimveil.zip"
+    },
+    {
+      "path": "resourcepacks/NoDamageHearts.zip",
+      "sha1": "bf9f68333df6a4aa9c932a8df069b406c21e7993",
+      "size": 15270,
+      "url": "https://edge.forgecdn.net/files/6556/35/NoDamageHearts.zip"
+    },
+    {
+      "path": "resourcepacks/Unique Potions By Blond 26.2 - 1.14 - 1.2.5.zip",
+      "sha1": "a8435ceb8f5e2e17a0ae883273115482a5387d51",
+      "size": 306536,
+      "url": "https://edge.forgecdn.net/files/8203/913/Unique%20Potions%20By%20Blond%2026.2%20-%201.14%20-%201.2.5.zip"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
+      "sha1": "5a021081f0178ed91dd911194071465ab0a4348b",
+      "size": 546925,
+      "url": "https://edge.forgecdn.net/files/8123/287/ComplementaryReimagined_r5.8.1.zip"
+    }
+  ],
+  "overrides": {
+    "sha1": "9ae4d67a3015368f8c367e5c95901c2b16c95f6d",
+    "size": 48775886,
+    "url": "https://github.com/minsung1231/smo-launcher-data/releases/download/pack/overrides-9ae4d67a.zip"
+  }
+}
