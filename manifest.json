@@ -1,5 +1,5 @@
 {
-  "version": "20261112T1623",
+  "version": "20261112T1626",
   "minecraft": "1.20.1",
   "forge": "47.4.10",
   "syncDirs": [
@@ -241,6 +241,12 @@
       "sha1": "0aa288c183d7e87036cb9f177a352a85af25ee25",
       "size": 35681926,
       "url": "https://edge.forgecdn.net/files/8217/238/daswordartonmine-3.4.jar"
+    },
+    {
+      "path": "mods/DDmeter-1.0.1.jar",
+      "sha1": "de41554e7534457df36b4128a184554568768686",
+      "size": 24020,
+      "url": "https://github.com/minsung1231/smo-launcher-data/releases/download/pack/de41554e-DDmeter-1.0.1.jar"
     },
     {
       "path": "mods/deeperdarker-forge-1.20.1-1.3.3.jar",
